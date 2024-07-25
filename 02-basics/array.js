@@ -25,6 +25,6 @@ console.log(newArr);
 
 //slice and splice
 const n1=[1,2,3,4,5]
-console.log(n1.slice(1,4)); //slice will not manipulate the original array
+console.log(n1.slice(1,4)); //slice will not manipulate the original array 
 console.log(n1.splice(1,3)); //splice will manipulate the original array
 console.log(n1);
